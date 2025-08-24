@@ -1,16 +1,19 @@
-## Hi there 👋
+# About
 
-<!--
-**YukkuriAkina/YukkuriAkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+非常に開発プロジェクトを転々とするマイペースな開発者  
+コードを書くのは少し不得意。アイデア発案の方が可能
 
-Here are some ideas to get you started:
+----
+## 言語使用優先度
+- Javascript
+- Python(不得意)
+- Lua
+- Luau
+## 愛用Lib
+React
+Next.js
+Express.js
+Tkinter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Etc
+Node.js
