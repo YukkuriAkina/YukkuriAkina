@@ -8,12 +8,7 @@
 - Javascript
 - Python(不得意)
 - Lua
-- Luau
 ## 愛用Lib
 React
-Next.js
 Express.js
 Tkinter
-
-## Etc
-Node.js
